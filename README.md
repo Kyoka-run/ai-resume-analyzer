@@ -99,15 +99,6 @@ echo "OPENAI_API_KEY=your_api_key_here" > .env
 python main.py
 ```
 
-## Scoring Criteria
-
-| Category | Points | Description |
-|----------|--------|-------------|
-| Skills Match | 35 | Technical and soft skills alignment |
-| Experience Match | 35 | Years and relevance of experience |
-| Education Match | 15 | Degree and field of study |
-| Overall Fit | 15 | General suitability for the role |
-
 ## License
 
 MIT License
